@@ -1,0 +1,19 @@
+.bakery-item {
+    background-color: #EEDDCE;
+    width: 20em;
+    margin: 1rem;
+}
+
+.item-img {
+    width: 20em;
+}
+
+
+.item-desc {
+    padding: 2rem;
+    color: grey;
+}
+
+.price-cart {
+    bottom: 0;
+}

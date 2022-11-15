@@ -1,9 +1,21 @@
 /* Add styling for your page here */
 
 .App {
-
+    margin: 4em;
+    color: darkslategrey;
 }
 
-.BakeryItem {
-  
+.flex-container {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
 }
+
+.bakeryItem {
+    background-color: #EEDDCE;
+    color: #EEDDCE;
+}
+
+/*.title {*/
+/*    position: center;*/
+/*}*/
